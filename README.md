@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Matheus Grativol! 
 
-- <img height="16em" width="16em" src="https://emoji.slack-edge.com/TLAVDH7C2/cora%25C3%25A7%25C3%25A3o_labenu/aac2b7bb5f5a09ba.png"/> Estudando React
+- <img height="16em" width="16em" src="https://emoji.slack-edge.com/TLAVDH7C2/cora%25C3%25A7%25C3%25A3o_labenu/aac2b7bb5f5a09ba.png"/> Estudando React - (Cursando WEB FULL STACK pela Labenu)
 
-- 💻 procurando trabalho...
+- 💻 procurando trabalho ou estágio
 - 🤵 Pronomes: ele/dele
 
 <div align="center">

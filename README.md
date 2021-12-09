@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Matheus Grativol! 
 
-- 🎓 Estudando React
+- <img height="16em" width="16em" src="https://emoji.slack-edge.com/TLAVDH7C2/cora%25C3%25A7%25C3%25A3o_labenu/aac2b7bb5f5a09ba.png"/> Estudando React
+
 - 💻 procurando trabalho...
 - 🤵 Pronomes: ele/dele
 
